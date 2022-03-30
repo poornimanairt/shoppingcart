@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+**A shopping cart Application managed using Redux. 
+Functionalities : Add to Cart, Remove from cart
+Pages: Dashboard, Cart
+**
+
 ## Available Scripts
 
 In the project directory, you can run:
