@@ -1,0 +1,36 @@
+Store Customer 
+customer number allows alphabets - resolved
+units validation - resolved
+coupon validation - resolved
+
+Customer Balance 
+add issue - resolved
+edit values not showing -resolved 
+customer add new save not working - resolved
+Validation not working - resolved
+customer Balance formCard alignment - resolved
+code Improvement - resolved
+
+Coupons 
+Add coupon form alignment - resolved
+add coupon validation - resolved
+
+Day End working 
+
+Expense 
+expense clear form - resolved
+expense Pagination - resolved
+image not showing - resolved
+edit values different - resolved
+expense validation - resolved
+
+DataTable
+removed extra code 
+improved code 
+
+removed all unused variables,classes,imports 
+
+
+
+
+
